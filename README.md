@@ -1,4 +1,4 @@
-# Mini-Project
+# 미니프로젝트 2024
 
 # 제품 관리 시스템
 - File: ProductClass.cpp
